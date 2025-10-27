@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '/assets/logo.png';
+import logo from '/assets/Images/logo.png';
 import user from '/assets/james.jfif';
 import { HiHome, HiMagnifyingGlass, HiStar, HiPlayCircle, HiTv } from 'react-icons/hi2';
 import { HiDotsVertical, HiPlus } from 'react-icons/hi';
